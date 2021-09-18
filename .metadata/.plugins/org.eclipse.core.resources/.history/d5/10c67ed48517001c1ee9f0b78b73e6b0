@@ -1,0 +1,15 @@
+package ch02;
+
+public class IncreaseExam {
+
+	public static void main(String[] args) {
+		int x =-1;
+		
+		if(5/10==5) {
+			System.out.println("true");
+		}else {
+			System.out.println("false");
+		}
+	}
+
+}

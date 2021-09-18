@@ -1,0 +1,17 @@
+package ch02;
+
+
+public class ArithmeticExam3 {
+
+	public static void main(String[] args) {
+	
+		int input = 10;
+		//¼ýÀÚ¸¦ ÀÔ·Â¹Þ¾Æ¼­ Â¦¼ö/È¦¼ö
+		if(input % 2==0) { //Â¦¼ö 
+			System.out.println("Â¦¼ö");
+		} else{
+			System.out.println("È¦¼ö");
+		}
+	}
+
+}
