@@ -8,7 +8,7 @@ public class ConditinOpetatorExam2 {
 		int b=3;
 		//조건 ? 참 : 거짓
 		System.out.println("두 수의 차는 " + (a>b ?a-b : b-a));
-
+		//add comment
 		
 //		int a=3;
 //		int b=3;
