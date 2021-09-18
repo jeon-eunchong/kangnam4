@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+C:\workspace\kangnam4\.metadata\.plugins\org.eclipse.jdt.core
-3658359147.index
-356374187.index
-1124561105.index
-130601786.index
-2663481984.index
